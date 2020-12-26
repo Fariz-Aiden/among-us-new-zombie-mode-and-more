@@ -1,4 +1,5 @@
 # among-us-new-zombie-mode-and-more
 
 
-this is a launcher that promotes zombie mode and more make sure you have among us downloaded if not download all files from this respirotory
+this is a launcher that promotes zombie mode and more make sure you have among us downloaded if not download all files from this respirotory.click skeld launcher it takes a while and it will ask you to select location of the among us.exe you downloaded if not you are all good to go
+
